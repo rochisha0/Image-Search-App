@@ -1,0 +1,38 @@
+/* src/components/ImageList.css */
+
+.image-card {
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image-card img {
+    width: 50%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .image-card p {
+    padding: 10px;
+    font-style: bold;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .image-card a {
+    text-decoration: none;
+    color: #007bff;
+    display: block;
+    padding: 10px;
+    background-color: #f4f4f4;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .image-card a:hover {
+    background-color: #ddd;
+  }
+  
