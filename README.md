@@ -1,7 +1,3 @@
-Certainly! Here's a simple README for your Image Search App:
-
----
-
 # Image Search App
 
 The Image Search App is a web application that allows users to search for images using the Unsplash API. Users can enter a search term, and the app fetches and displays relevant images based on the query.
